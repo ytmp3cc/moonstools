@@ -20,8 +20,9 @@ we know the following programming languages:
 we have none yet but soon we will
 
 ##  Contributions
-moon worked on https://github.com/EdgeIY/infiniteyield
-moon made dex (roblox exploiting scripts)
+moon worked on [Infinite Yield](https://github.com/EdgeIY/infiniteyield)
+moon made [Dex](https://github.com/LorekeeperZinnia/Dex) 
+(roblox exploiting scripts)
 moon was apart of tubers93 prior to the breakup
 
 ## 🤝 Connect with Us
